@@ -1,0 +1,21 @@
+body{
+text-align: center;
+background-image: linear-gradient(pink,lavender,crimson);
+}
+#family_img{
+width:150%;
+height: 150%;
+}
+button{
+font-size:25px;
+background-color:cyan;
+}
+h1{
+font-size:  40px;
+color:darkmagenta;
+
+}
+h3{
+font-size: 30px;
+color:aquamarine;
+}
